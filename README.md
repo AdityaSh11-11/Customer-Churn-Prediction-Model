@@ -2,7 +2,7 @@
 
 > **Predict customer churn, uncover insights and drive smarter retention strategies using Machine Learning.**
 
-A modern **Machine Learning-powered Customer Churn Prediction System** built with **Python**, **Streamlit**, and **Random Forest Classifier**. This interactive dashboard enables businesses to analyze customer behavior, identify customers at risk of churning, and gain actionable insights through rich visualizations.
+A modern **Machine Learning-powered Customer Churn Prediction System** built with **Python**, **Streamlit** and **Random Forest Classifier**. This interactive dashboard enables businesses to analyze customer behavior, identify customers at risk of churning and gain actionable insights through rich visualizations.
 
 ---
 
@@ -27,7 +27,7 @@ A modern **Machine Learning-powered Customer Churn Prediction System** built wit
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -130,7 +130,7 @@ streamlit run app.py
 
 ---
 
-# 📦 Requirements
+# Requirements
 
 ```text
 streamlit
@@ -184,18 +184,12 @@ This project demonstrates:
 
 ---
 
-# ⭐ If you like this project
+# If you like this project
 
 Give this repository a ⭐ on GitHub!
 
 ---
 
-## 📜 License
+## Project Summary
 
-This project is licensed under the MIT License.
-
----
-
-## 💡 Project Summary
-
-The **Customer Churn Prediction System** is an AI-powered analytics dashboard that leverages Machine Learning to predict customer churn and visualize customer behavior through interactive dashboards. It enables businesses to identify customers at risk, understand churn patterns, and make data-driven decisions to improve customer retention strategies.
+The **Customer Churn Prediction System** is an analytics dashboard that leverages Machine Learning to predict customer churn and visualize customer behavior through interactive dashboards. It enables businesses to identify customers at risk, understand churn patterns and make data-driven decisions to improve customer retention strategies.
