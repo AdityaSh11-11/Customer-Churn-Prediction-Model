@@ -26,7 +26,6 @@ A modern **Machine Learning-powered Customer Churn Prediction System** built wit
 # Dashboard Preview
 
 ![Preview](.preview/1.png)
-![Preview](.preview/2.png)
 ![Preview](.preview/3.png)
 ![Preview](.preview/4.png)
 ![Preview](.preview/5.png)
