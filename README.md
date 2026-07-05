@@ -1,4 +1,4 @@
-# Customer Churn Prediction System
+# Customer Churn Prediction & Business Intelligence Dashboard
 
 > **Predict customer churn, uncover insights and drive smarter retention strategies using Machine Learning.**
 
